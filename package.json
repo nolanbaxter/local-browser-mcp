@@ -43,14 +43,14 @@
     "postinstall": "node scripts/postinstall.cjs"
   },
   "dependencies": {
-    "playwright": "^1.63.0"
+    "playwright": "^1.64.0"
   },
   "devDependencies": {
-    "@modelcontextprotocol/sdk": "^1.30.0",
-    "@types/node": "^22.0.0",
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "@types/node": "^26.6.5",
     "esbuild": "^0.28.2",
-    "typescript": "^5.5.0",
-    "zod": "^4.5.4"
+    "typescript": "^7.0.2",
+    "zod": "^4.6.6"
   },
   "engines": {
     "node": ">=20"
